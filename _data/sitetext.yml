@@ -11,14 +11,6 @@ portfolio:
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
-    
-
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
     events:
       - title: "CAUSE"
         year: "2009-2011"
@@ -30,6 +22,7 @@ timeline:
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt: 
+        align: right
       - title: "COMPREHENSION"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
@@ -40,6 +33,7 @@ timeline:
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt: 
+        align: right
         # you can enforce the aligment
         align: right
       - title: "CONCEPTION"
@@ -54,6 +48,7 @@ timeline:
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt: 
+        align: right
         # you can enforce the aligment
         align: right
       - title: "CONCEPTION"
@@ -62,9 +57,17 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
-        align: right
+#         align: right
 
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of Our <br> Story!"    
+
+timeline:
+    title: "About" 
+    text: "Lorem ipsum timeline"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+
 
 about:
     title: "About Us"
