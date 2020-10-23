@@ -49,7 +49,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
-        align: right
+        # align: right
       - title: "CRAFTING"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
