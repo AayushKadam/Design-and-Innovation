@@ -7,10 +7,17 @@ header:
 
 
 portfolio:
-    title: "The 7Cs"
+    title: "Home"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
+
+timeline:
+    title: "The 7 C's" 
+    text: "Lorem ipsum timeline"
+    section: timeline
+    # left is the default
+    #start_align: "left"
     events:
       - title: "CAUSE"
         year: "2009-2011"
@@ -60,13 +67,6 @@ portfolio:
 #         align: right
 
     end: "Be Part <br> of Our <br> Story!"    
-
-timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
 
 
 about:
