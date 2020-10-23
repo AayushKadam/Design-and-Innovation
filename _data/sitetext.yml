@@ -14,7 +14,7 @@ portfolio:
 
 timeline:
     title: "The 7 C's" 
-    text: "Lorem ipsum timeline"
+    text: "Our design journey"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -64,7 +64,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
-#         align: right
+        # align: right
 
     end: "Be Part <br> of Our <br> Story!"    
 
