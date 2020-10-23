@@ -18,7 +18,7 @@
     &:active,
     &:focus,
     &:hover {
-      color: darken($gray-900, 10%);
+      color: darken($primary, 10%);
     }
   }
   .navbar-nav {
