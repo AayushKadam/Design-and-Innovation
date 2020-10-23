@@ -40,7 +40,7 @@ timeline:
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt: 
-        align: right
+        # align: right
         # you can enforce the aligment
         align: right
       - title: "CONCEPTION"
