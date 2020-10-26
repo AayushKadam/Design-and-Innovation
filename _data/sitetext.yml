@@ -114,7 +114,7 @@ team:
 comment:
     title: "Comment"
     text: "Lorem ipsum or call 123456789"
-    section: comment
+    section: contact
     
 footer:
     legal: "Privacy Policy"
