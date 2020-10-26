@@ -7,28 +7,19 @@
           <h3 class="section-subheading text-muted">{{ site.data.sitetext.contact.text | default: "" }}</h3>
         </div>
       </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <form id="contactForm" action="https://formspree.io/{{ site.email }}" novalidate="novalidate" method="POST">
-		  <!--name="sentMessage"--> 
-            <div class="row">
-              <div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'https-deut-erium-github-io'; // required: replace example with your forum shortname
+      <div id="disqus_thread"></div>
+	<script type="text/javascript">
+	    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+	    var disqus_shortname = 'https-deut-erium-github-io'; // required: replace example with your forum shortname
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            </div>
-          </form>
-        </div>
-      </div>
+	    /* * * DON'T EDIT BELOW THIS LINE * * */
+	    (function() {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	    })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     </div>
   </section>
 <!-- End Contact -->
