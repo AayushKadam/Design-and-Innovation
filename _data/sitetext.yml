@@ -111,7 +111,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-comment:
+contact:
     title: "Comment"
     text: "Lorem ipsum or call 123456789"
     section: contact
