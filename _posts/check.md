@@ -13,7 +13,10 @@ article_header:
     src: /docs/assets/images/cover3.jpg
 ---
 
-This issue came to our notice while discussing the fact that many older people face the problem of joint pains. This got us to thinking that how does this affect their lives like from not being able to stand for long durations to not being able to lift weights. We felt that for these activities they could rely on others but what about if they couldn’t? This led us to realise that personal hygiene is something that they could not rely on others. Using the washroom is one major problem that every older person faces, whether they use indian style or western style loo. In indian style the problem is the strain on joints which has forced them to use western style loo. But the issue they face is unease with the western seats due to the change of posture which can lead to digestion problems and constipation. 
+1. The posture with indian style loo with minimal exertion on joints.
+2. Still easy to use for other users
+3. Makes use of the already existing drainage and toilet seats
+
 
 
 <!--more-->
