@@ -15,9 +15,8 @@ article_header:
 
 Current solutions available in the market are :
 1. Handles on the sides of western seats, this help while sitting and standing up but it does not help with the posture.
-<img class="image image--md" src="/docs/assets/images/image1.png">
-<img class="image image--md" src="/docs/assets/images/image2.png">
 2. There are chairs available to use with the indian toilets but they too do not help with the posture.
+<img class="image image--sm" src="/docs/assets/images/image1.png"/><img class="image image--sm" src="/docs/assets/images/image2.png"/>
 
 There are two train of thoughts that we had:
 1. Make changes to the indian seat and make it more convenient to use for people with joint problems
