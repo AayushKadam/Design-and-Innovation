@@ -15,6 +15,14 @@ article_header:
 
 This issue came to our notice while discussing the fact that many older people face the problem of joint pains. This got us to thinking that how does this affect their lives like from not being able to stand for long durations to not being able to lift weights. We felt that for these activities they could rely on others but what about if they couldn’t? This led us to realise that personal hygiene is something that they could not rely on others. Using the washroom is one major problem that every older person faces, whether they use indian style or western style loo. In indian style the problem is the strain on joints which has forced them to use western style loo. But the issue they face is unease with the western seats due to the change of posture which can lead to digestion problems and constipation. 
 
+When collecting user experience, we should go and meet more and more elders with sparse livelihoods and also, we should reach out to different locations, to go to the depth of the cause and can observe how big and diverse is this problem and then proceed to the next C’s.
+But due to the current pandemic situation, we could only manage to talk to the elders in our neighbourhood.
+When we were talking to the elders in our neighbourhood about this, we got to know that they were facing the problems in their bowel movement  as we anticipated during the Cause.
+Most of the elders here lived most of their life in villages and they used to do very tedious jobs such as farming which require a lot of physical strength. So, now being in old age they have been struggling with their knees. It causes some of them a lot of pain while bending the knees.
+And most of them had been using the Indian toilets for a long time (years), so are used to it. But using Indian toilets requires them to bend their knees while sitting and it causes them pain. Instead if they use Western toilets, it doesn't suit them and a lot of problems arise, like constipation because of not having excreted well and some other health problems arise too.
+Indian and Western toilets have a big difference in the postures while sitting which effect when using toilets. Although one advantage of using Western toilets is that they doesn’t cause much pain in knees. So, this is a kind of trade-off between using Indian and Western toilets.
+And the elders have been reacting to it according to their problems, i.e. ones who doesn’t have much pain in using Indian toilets and can bear this pain, they continue to use Indian toilets. But ones who have significant pain in the knees have had shifted to Western toilets despite of some of the health problems regarding stomach that arises.
+Also, they have requested some hybrid toilets which help them deal with both the issues mentioned by them and which are easily available to them.
 
 <!--more-->
 
