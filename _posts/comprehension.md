@@ -1,6 +1,6 @@
 ---
 layout: article
-title: The Check
+title: The Comprehension
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
@@ -10,10 +10,16 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/assets/images/cover3.jpg
+    src: /docs/assets/images/image1.png
 ---
 
-This issue came to our notice while discussing the fact that many older people face the problem of joint pains. This got us to thinking that how does this affect their lives like from not being able to stand for long durations to not being able to lift weights. We felt that for these activities they could rely on others but what about if they couldn’t? This led us to realise that personal hygiene is something that they could not rely on others. Using the washroom is one major problem that every older person faces, whether they use indian style or western style loo. In indian style the problem is the strain on joints which has forced them to use western style loo. But the issue they face is unease with the western seats due to the change of posture which can lead to digestion problems and constipation. 
+Current solutions available in the market are :
+1. Handles on the sides of western seats, this help while sitting and standing up but it does not help with the posture.
+2. There are chairs available to use with the indian toilets but they too do not help with the posture.
+
+There are two train of thoughts that we had:
+1. Make changes to the indian seat and make it more convenient to use for people with joint problems
+2. Make modifications to the western seat and try to bring the posture of indian style loo.
 
 
 <!--more-->
