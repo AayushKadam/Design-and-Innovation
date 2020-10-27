@@ -32,27 +32,22 @@ timeline:
         align: right
       - title: "COMPREHENSION"
         year: "26 Oct"
-        desc: "Current solutions available in the market are :
-        1.) Handles on the sides of western seats, this help while sitting and standing up but it does not help with the posture."
+        desc: "Current solutions available in the market are : \n 1.) Handles on the sides of western seats, this help while sitting and standing up but it does not help with the posture."
         image: assets/img/timeline/image1.png
         alt: image alt text
       - title: "COMPREHENSION"
         year: "26 Oct"
-        desc: "There are chairs available to use with the indian toilets but they too do not help with the posture."
+        desc: "2.) There are chairs available to use with the indian toilets but they too do not help with the posture."
         image: assets/img/timeline/image2.png
         alt: image alt text
       - title: "COMPREHENSION"
         year: "26 Oct"
-        desc: "There are two train of thoughts that we had:
-        (a) Make changes to the indian seat and make it more convenient to use for people with joint problems
-        (b) Make modifications to the western seat and try to bring the posture of indian style loo."
+        desc: "There are two train of thoughts that we had: \n (a) Make changes to the indian seat and make it more convenient to use for people with joint problems \n (b) Make modifications to the western seat and try to bring the posture of indian style loo."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "CHECK"
         year: "27 Oct"
-        desc: "(a) The posture with indian style loo with minimal exertion on joints.
-        (b) Still easy to use for other users
-        (c) Makes use of the already existing drainage and toilet seats"
+        desc: "(a) The posture with indian style loo with minimal exertion on joints. \n (b) Still easy to use for other users \n (c) Makes use of the already existing drainage and toilet seats"
         image: assets/img/timeline/4.jpg
         alt: 
         # align: right
