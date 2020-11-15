@@ -27,7 +27,7 @@ Current solutions available in the market are :
 1. Handles on the sides of western seats, this help while sitting and standing up but it does not help with the posture.
 2. There are chairs available to use with the indian toilets but they too do not help with the posture.
 
-<img class="image image--lg" src="https://github.com/AayushKadam/Design-and-Innovation/blob/master/docs/assets/images/image1.png?raw=1"/>   <img class="image image--lg" src="https://github.com/AayushKadam/Design-and-Innovation/blob/master/docs/assets/images/image2.png?raw=1"/>
+<img class="image image--lg" src="https://github.com/AayushKadam/Design-and-Innovation/blob/master/docs/assets/images/image1.png?raw=1"/>                      <img class="image image--lg" src="https://github.com/AayushKadam/Design-and-Innovation/blob/master/docs/assets/images/image2.png?raw=1"/>
 
 <!--more-->
 
