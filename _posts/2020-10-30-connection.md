@@ -19,4 +19,4 @@ Here is a video of my grandaunt reviewing our sketch model. She has severe pain 
 
 <img class="image image--lg" src="https://github.com/AayushKadam/Design-and-Innovation/blob/master/assets/images/sketches/connection.jpeg?raw=1"/>  
 
-<div>{%- include extensions/youtube.html id='2X_qFhVBQtU' -%}</div>
+<div>{%- include extensions/youtube.html id='tBjrhHL2x8I' -%}</div>
