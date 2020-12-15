@@ -20,3 +20,14 @@ Here is a video of my grandaunt reviewing our sketch model. She has severe pain 
 <img class="image image--lg" src="https://github.com/AayushKadam/Design-and-Innovation/blob/master/assets/images/sketches/connection.jpeg?raw=1"/>  
 
 <div>{%- include extensions/youtube.html id='tBjrhHL2x8I' -%}</div>
+
+
+## User 2
+"Mujhe lagta hai ki ispe karna to asan ho jayega, par patle log hi aaenge ispe to
+Mai to phas jaunga. Aur ye side k dande se jo hain, ye neeche kar sakte ho tum asan hoga.
+Baaki isko pakad k beta baithne mein bhi bohot asani aayegi. Aram se pakad k baith jaunga"
+"Isko pakad k rakhna padega kya? Fir to haath dukenge beta."
+Me: "Nahi nahi dada ji, ye bas khade hone k liye hai dubara"
+"Accha, fir to badhiya hai, ispe itni unchai pe zor laga paunga?"
+Me: "Haan, dekhne mein zyada lag raha, asli banega tab acche se pata chalega
+Baaki lag to badhshah ki gaddi rahi hai ye. Accha lagega subha subha"
